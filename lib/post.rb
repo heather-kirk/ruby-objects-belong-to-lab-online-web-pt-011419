@@ -5,3 +5,5 @@ class Post
     @name = name 
   end 
 end 
+
+name = Post.new
